@@ -1,0 +1,56 @@
+{
+    "bot_config": {
+        "server_id": 1102262954549850238,
+        "logs": 1102263031746023444, 
+        "prefix": "/",
+        "token":
+      "Discord token goes here",
+        "twitch_channel": "CHANNEL ID",
+        "twitch_channel_2": "CHANNEL ID"
+    },
+    "tfollow": {
+        "Owner": 750,
+        "Premium": 1000,
+        "Diamond": 500,
+        "Gold": 400,
+        "Silver": 150,
+        "Bronze": 75,
+        "Member": 30
+    },
+    "tfriend": {
+        "Owner": 500,
+        "Premium": 450,
+        "Diamond ": 200,
+        "Gold": 120,
+        "Silver": 50,
+        "Bronze": 25,
+        "Member": 5
+    },
+    "treport": {
+        "Owner": 450,
+        "Premium": 380,
+        "Diamond ": 320,
+        "Gold": 240,
+        "Silver": 120,
+        "Bronze": 60,
+        "Members": 5
+    },
+    "tspam": {
+        "Owner": 450,
+        "Premium": 2000,
+        "Diamond": 20,
+        "Gold": 15
+    },
+    "ttroll": {
+        "Owner": 4500,
+        "Premium": 30,
+        "Diamond": 20,
+        "Gold": 15
+    },
+    "traid": {
+        "Owner": 4500,
+        "Premium": 30,
+        "Diamond": 20,
+        "Gold": 15
+    }
+}
